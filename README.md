@@ -1,4 +1,5 @@
 Conway's Game of Life
+
 This is a Python implementation of Conway's Game of Life using the Pygame library.
 
 Description
